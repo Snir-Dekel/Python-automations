@@ -1,0 +1,7 @@
+PyAutoGUI==0.9.52
+pywin32==228
+pyzbar==0.1.8
+pynput==1.7.1
+pyscreenshot==2.3
+playsound==1.2.2
+win32gui==221.6
