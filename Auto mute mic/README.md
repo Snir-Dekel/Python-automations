@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/66528853/152970782-2599c11f-59f4-43e1-b5c6-31eb119f8a28.png)
 
-> ## When chair is detected by the model, this screen will show up, python will detect it and mute your mic automatically
+> ## When chair is detected by the model, this screen will show up python will detect it and mute your mic automatically!
 
 ![image](https://user-images.githubusercontent.com/66528853/152970997-f23579de-8a80-4288-be58-599b3a080c46.png)
 
