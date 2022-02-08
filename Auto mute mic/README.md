@@ -25,4 +25,4 @@
 ![image](https://user-images.githubusercontent.com/66528853/152969162-68f2c037-fc72-4985-bdc9-7a85d839275e.png)
 ![image](https://user-images.githubusercontent.com/66528853/152969160-459f6b9b-a4e3-49f0-b56f-a84ef95c5318.png)
 
-> Last step! download `code.py` from this repository (install the requirements by running pip install -r requirements.txt)
+> *Last step!* download `code.py` from this repository (install the requirements by running pip install -r requirements.txt)
