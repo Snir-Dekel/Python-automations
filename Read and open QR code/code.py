@@ -39,7 +39,7 @@ def on_press(key):
 
 
 directory = r"sound effects\\"
-print("double click CTRL key to start")
+print("double press CTRL key to start")
 playsound(directory + "startup.wav", block=False)
 start = time.time()
 listener = Listener(on_press=on_press)
