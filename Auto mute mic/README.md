@@ -1,5 +1,5 @@
 # Using Deep Learning to Mute my microphone when I get up from my chair!
-## when you are in a voice chat (zoom, discord, etc.) and going for a minute, you need to mute your mic, this project solves this problem.
+## when you are in a voice chat (zoom, discord, etc.) and going for a minute, you need to mute your mic, this project solves this problem by automatically muting the mic when when you get up from your chair.
 ### How I made it:
 > Go to https://teachablemachine.withgoogle.com/train and choose"Audio Project"
 
