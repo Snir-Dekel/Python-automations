@@ -9,7 +9,6 @@ translator = Translator()
 while True:
     pyperclip.waitForNewPaste()
     hebrew_translated_text = translator.translate(pyperclip.paste(), dest='he').text
-    pyperclip.copy(hebrew_translated_text)
     print(hebrew_translated_text)
     engine.say(hebrew_translated_text)
     engine.runAndWait()
