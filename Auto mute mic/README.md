@@ -26,3 +26,11 @@
 ![image](https://user-images.githubusercontent.com/66528853/152969160-459f6b9b-a4e3-49f0-b56f-a84ef95c5318.png)
 
 > ## **Last step!** download `code.py` from this repository (install the requirements by running pip install -r requirements.txt)
+
+> After running the code, a browser contoller by python will be opened, and you will see this screen, which means the model detecting background noise
+
+![image](https://user-images.githubusercontent.com/66528853/152970782-2599c11f-59f4-43e1-b5c6-31eb119f8a28.png)
+
+< When the model will detect chair, this screen will show up, python will detect it and mute your mic automatically
+![image](https://user-images.githubusercontent.com/66528853/152970997-f23579de-8a80-4288-be58-599b3a080c46.png)
+
